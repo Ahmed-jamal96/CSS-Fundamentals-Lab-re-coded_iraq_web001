@@ -9,7 +9,7 @@ nav a {
   padding-left: 10px;
 }
 section figure img{
-  align-items: center;
+  align-content: center;
 }
 figcaption{
   font-size: 10px;
